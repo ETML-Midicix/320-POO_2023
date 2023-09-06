@@ -90,7 +90,7 @@ Les buts de cet exercice sont:
 7. Faire tomber le parachutiste de trois lignes à chaque cycle du game engine. Le faire s'arrêter sur le sol
 8. Faire ouvrir le parachute au parachutiste à la moité de la hauteur de l'écran. Avec le parachute ouvert, il ne descend plus que d'une ligne à chaque cycle. Avec un parachute ouvert, le parachutiste ressemble à ceci:
    ```
-        private string[] withoutParachute =
+        private string[] withParachute =
         {
             @" ___ ",
             @"/|||\",
